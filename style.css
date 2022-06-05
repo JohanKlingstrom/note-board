@@ -1,7 +1,7 @@
 :root {
     --primary-dark: #131313;
-    --highlight: #bbf706;
-    --memo-bg: #bbf70629;
+    --highlight: #f7ff15;
+    --memo-bg: rgba(187, 247, 6, 0.184)
 }
 
 @font-face {
@@ -94,7 +94,7 @@ main {
     color: var(--highlight);
     padding: 5px;
     outline: none;
-    font-size: 18px;
+    font-size: 2rem;
     font-family: 'Pixel';
 }
 
